@@ -8,10 +8,10 @@ ___
 * [x] CS assignment
 ___
 
-### **BOOK LIST**
+### ***BOOK LIST***
 
-| BOOK NAME         |  AUTHOR         | Status|
-| ----------------- | --------------- |------ |
-|If Tomorrow comes  | Sidney Sheldon  | [x]   |
-|The Brethren       | John Grisham    | [ ]   |
-|False Impression   | Jefferey Archer | [ ]   |
+| BOOK NAME         |  AUTHOR         |  PAGE COUNT | STATUS|
+| ----------------- | --------------- |------------ | ------|
+|If Tomorrow comes  | Sidney Sheldon  |   501       |  [x]  |
+|The Brethren       | John Grisham    |   440       |  [ ]  |
+|False Impression   | Jefferey Archer |   385       |  [ ]  |
