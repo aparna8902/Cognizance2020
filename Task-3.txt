@@ -1,0 +1,4 @@
+Create a repository with name “Cognizance2020” on GitHub using Git Bash.
+Create a folder with name “Task-3” in the repository and perform the Git operations using Git Bash.
+Take a screenshot of all the Git operations you performed and compile it in a single PDF 
+Submit along with your repository URL in the submission form.
