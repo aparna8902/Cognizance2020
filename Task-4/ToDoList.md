@@ -20,4 +20,5 @@ ___
 ![Book cover](https://images-na.ssl-images-amazon.com/images/I/41bBQ4oeTbL._SX313_BO1,204,203,200_.jpg "Book cover")  
 #### `Rating: 4/5`
 This is a story of intrigue and revenge. Tracy Whitney is young, beautiful and intelligent - and about to marry into wealth and glamour. Until, suddenly, she is betrayed, framed by a ruthless Mafia gang, abandoned by the man she loves. Only her ingenuity saves her and helps her fight back.
+> *'A fast-paced tale of jet-set skullduggery' ~ NEW YORK TIMES*
 ___
