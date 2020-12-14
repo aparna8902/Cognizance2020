@@ -18,20 +18,19 @@ An array is a collection of items stored at contiguous memory locations and elem
 We can use normal variables (v1, v2, v3, ..) when we have a small number of objects, but if we want to store a large number of instances, it becomes difficult to manage them with normal variables. The idea of an array is to represent many instances in one variable.
 
 ![Array declaration](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Array-In-C.png)
-
+___
 *To learn more about arrays visit **[Arrays](https://www.geeksforgeeks.org/arrays-in-c-cpp/ "Geeks For Geeks article")***
-
 ___
 ### C++ Code for finding max using array
 ```c
 #include <iostream>
 using namespace std;
 
-int n, a[n],max;
-cout<<"Enter the number of elements";
+int n, a[n],max,i;
+cout<<"Enter the number of elements ";
 cin>>n;
-cout<<"Enter the elements";
-for(int i=0;i<n;i++)
+cout<<"Enter the elements ";
+for(i=0;i<n;i++)
 cin<<a[i];
 
 max=a[0];
@@ -40,6 +39,12 @@ if(a[i]>max)
 max=a[i];
 
 cout<<"Maximum of the array is: "<<max;
+```
+### Output
+```c
+Enter the number of elements 4
+Enter the elements 4 9 17 6
+Maximum of the array is: 17
 ```
 ___
 Here's a quote that can help you understand the colloquial usage of the term *array*
